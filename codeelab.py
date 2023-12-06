@@ -24,3 +24,5 @@ print("Resultado de la concatenacion:", resultado_concatenacion)
 print("Limite de los enteros en Python: No hay limite maximo (depende de la memoria).")
 print("Limite de los flotantes en Python: Rango de aproximadamente 1.7 * 10^-308 a 10^308")
 print("Suma de los primeros", numero_entero, "numeros pares", suma_pares)
+
+#Gracaias:D
